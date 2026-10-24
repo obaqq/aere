@@ -1,0 +1,19 @@
+{
+    "token": "",
+    "beta_token": "",
+    "DB_URL": "",
+    "isBeta": false,
+    "guildsWhitelist": [""],
+    "embed": {
+        "color": 15784782,
+        "botName": "Aere",
+        "icon": "https://i.ibb.co/LXCw8V5f/Picsart-25-04-06-08-36-42-266.jpg"
+    },
+    "emojis": {
+        "loading": "",
+        "fail": "",
+        "check": "",
+        "RT": "",
+        "DR": ""
+    }
+}
